@@ -9,7 +9,7 @@ function sayhello66() {
 function taro() {
     who66　= '太郎'　;
 }
-function taro() {
+function hanako() {
     who66　= '花子'　;
 }
 function　gakita() {alert(who66 + 'が来た');
